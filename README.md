@@ -1,7 +1,8 @@
-# python_projects
+# Projects
 
-Michael Murphy's python projects.
+Some of Michael Murphy's projects.
 
-- [Pneumonia image classification using Tensorflow (Colab)](https://colab.research.google.com/github/michaeltm365/python_projects/blob/main/PneumoniaDetection_github.ipynb)
-- [Base converter (Colab)](https://colab.research.google.com/github/michaeltm365/python_projects/blob/main/base_converter.ipynb)
-- [Rock paper scissors (Python script)](https://github.com/michaeltm365/python_projects/blob/main/rockpaperscissors.py)
+- [Inspirit AI Pneumonia Detection project](https://github.com/michaeltm365/projects/tree/main/inspirit_ai)
+- [Summer internship at the Linderman Lab at Stanford University](https://github.com/michaeltm365/projects/tree/main/linderman_lab)
+- [UCI COSMOS Summer Program Cluster 1 (The Application of Data Science to Biomedical Science)](https://github.com/michaeltm365/projects/tree/main/cosmos)
+- [Misc. coding](https://github.com/michaeltm365/projects/tree/main/coding)
