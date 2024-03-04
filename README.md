@@ -1,6 +1,6 @@
 # Projects
 
-Some of Michael Murphy's projects.
+Some of my projects.
 
 - [Inspirit AI Pneumonia Detection project](https://github.com/michaeltm365/projects/tree/main/inspirit_ai)
 - [Summer internship at the Linderman Lab at Stanford University](https://github.com/michaeltm365/projects/tree/main/linderman_lab)
